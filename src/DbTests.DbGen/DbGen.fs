@@ -9,6 +9,7 @@
 //
 //////////////////////////////////////////
 
+[<System.CodeDom.Compiler.GeneratedCode("Facil", "2.14.1+2a600a8cf8db0bf66e84d0920d1939c4368efc35")>]
 module DbGen
 
 #nowarn "49"
